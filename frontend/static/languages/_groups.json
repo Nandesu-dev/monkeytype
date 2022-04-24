@@ -161,6 +161,10 @@
     "languages": ["malay"]
   },
   {
+    "name": "iban",
+    "languages": ["iban"]
+  },
+  {
     "name": "romanian",
     "languages": ["romanian"]
   },
@@ -286,20 +290,12 @@
     "languages": ["belarusian_1k"]
   },
   {
-    "name": "azerbaijani",
-    "languages": ["azerbaijani", "azerbaijani_1k"]
-  },
-  {
     "name": "malayalam",
     "languages": ["malayalam"]
   },
   {
     "name": "sinhala",
     "languages": ["sinhala"]
-  },
-  {
-    "name": "toki_pona",
-    "languages": ["toki_pona", "toki_pona_ku_suli", "toki_pona_ku_lili"]
   },
   {
     "name": "code",
@@ -332,6 +328,7 @@
     "languages": [
       "lojban_gismu",
       "lojban_cmavo",
+      "toki_pona",
       "pig_latin",
       "twitch_emotes",
       "git"
